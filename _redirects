@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://unruffled-darwin-1bbc5e.netlify.com/* http://dakroub.me/:splat 301!
