@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "fmt": "deno fmt && deno lint --fix",
+    "serve": "deno run --allow-net --allow-read jsr:@std/http/file-server ./ --no-dir-listing --no-dotfiles"
+  }
+}
